@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+  <meta charset="utf-8">
+
+  <link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet">
+
+  <link href="https://fonts.googleapis.com/css?family=Spirax" rel="stylesheet">
+
+
+
+
+  <title>Main page</title>
+
+  <style>
+
+
+
+    body {
+
+        background-color:lavender;
+
+        color: white;
+
+    }
+
+    h1 {
+
+        font-family: Stencil Std, fantasy;
+
+        color: red;
+
+        font-size: 50px;
+
+    }
+
+    a {
+
+        color: orangered;
+
+        font-family: Stencil Std, fantasy;
+
+        font-size: 24px;
+
+        text-decoration: none;
+
+    }
+
+    a:hover{
+
+      color: green;
+
+    }
+
+  </style>
+
+</head>
+
+
+
+
+<body>
+
+    <img src="images/road.png" width="400px" height="400px">
+
+    <div style="background-color:">
+
+    <h1>This is the main page.</h1>
+
+    </div>
+
+    <div style="background-">
+
+    <p>Be amazed from here on out</p>
+      
+       
+    </div>
+
+    <ul>
+
+      <div style="background-color:">
+
+        <li><a href="page1.html">Logos</a></li>
+
+        </div>
+
+      
+
+        <div style="background-color:">
+
+      <li><a href="page3.html"> Content</a></li>
+
+        </div>
+
+      <li><a href="Zine.html">About Me</a>
+
+      <li><a href="Video.html">Videos</a>
+
+      
+
+   </ul>
+
+</body>
+
+</html>
